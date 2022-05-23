@@ -10,8 +10,6 @@
 
 ---
 
-<br>
-
 ### Installation Setup & Running -
 
 
@@ -28,8 +26,6 @@ Open your favorite browser and paste the above link
 ```
 
 ---
-
-<br>
 
 ### ```Sample's -```
 
@@ -53,7 +49,6 @@ Open your favorite browser and paste the above link
 
 > * [Aabhash Malviya](https://github.com/Aabhashzzz1)
 
-<br>
 
 ### **Support Me**
 
