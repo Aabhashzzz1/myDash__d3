@@ -13,7 +13,7 @@
 ### Installation Setup & Running -
 
 
-1. `git clone -b amware https://github.com/Aabhashzzz1/myDash__d3.git`
+1. `git clone https://github.com/Aabhashzzz1/myDash__d3.git`
 2. `cd myDash__d3`
 3. `npm i`
 4. `npm start`
